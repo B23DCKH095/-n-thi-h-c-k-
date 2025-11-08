@@ -1,0 +1,1 @@
+{"name":"Local: bai2","url":"/home/mq/Desktop/Ôn thi học kỳ/Python/day6/bai2.py","tests":[{"id":1762588016951,"input":"4\ntesting\nintestg\nabc\naabbbcccc\nabcabcbcc\naabbbcccc\nabc\nxyz ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mq/Desktop/Ôn thi học kỳ/Python/day6/bai2.py","group":"local","local":true}
